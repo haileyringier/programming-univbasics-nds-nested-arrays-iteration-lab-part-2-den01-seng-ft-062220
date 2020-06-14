@@ -15,3 +15,4 @@ def find_min_in_nested_arrays(src)
   end
   return lowest_daily_temps
 end
+end
